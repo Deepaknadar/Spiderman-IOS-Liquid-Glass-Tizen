@@ -1,0 +1,10 @@
+{
+  "name": "spider-glass-launcher",
+  "version": "1.0.0",
+  "description": "Liquid-glass home screen launcher with clock, Mumbai weather and an app shelf",
+  "packageType": "app",
+  "appName": "Spider Glass",
+  "appPath": "app/index.html",
+  "keys": [],
+  "license": "MIT"
+}
